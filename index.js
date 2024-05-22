@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["boost for perks!","i <3 444 staff"];
 
 
 let currentIndex = 0;
